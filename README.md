@@ -60,4 +60,4 @@ Below is a UML sequence diagram that illustrates how the request and response fl
 ![image](https://github.com/user-attachments/assets/6bec5477-8ca5-4bff-bc03-f0461454dc9c)
 
 
-This microservice is hosted using Azure Functions and is accessible 24/7.
+This microservice is hosted using Azure and is accessible 24/7.
